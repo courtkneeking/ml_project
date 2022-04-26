@@ -1,0 +1,4 @@
+- Original Datasets in /datasets 
+- Data Processing: Climate_data.ipynb, data_extra.ipynb, ice_break_data.ipynb 
+- Final datasets: numerical_features.csv, multinomial_features.csv
+- Classifer: bayes.ipynb, funcs.py 
